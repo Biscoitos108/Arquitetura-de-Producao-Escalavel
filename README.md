@@ -101,3 +101,5 @@
 
 ---
 
+### 🧠 Autor
+**Estêvão Santos Cavalcante**
